@@ -1,3 +1,5 @@
+<h2>Output: </h2>
+
 <table>
   <tr>
     <td width="50%">
