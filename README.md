@@ -1,4 +1,4 @@
-<h1 align ="center">------Train Ticket Management------</h1>
+<h2 align ="center">------Train Ticket Management------</h2>
 
 <h2>Output: </h2>
 
