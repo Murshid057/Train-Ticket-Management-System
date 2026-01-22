@@ -1,3 +1,5 @@
+<h1 align ="center">------Train Ticket Management------</h1>
+
 <h2>Output: </h2>
 
 <table>
